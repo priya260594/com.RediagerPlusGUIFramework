@@ -67,7 +67,7 @@
 
 	<profiles>
 		<profile>
-			<id>FullRegression</id>
+			<id>fullRegression</id>
 			<build>
 				<plugins>
 					<plugin>
