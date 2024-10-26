@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T01:18:31 IST" name="Default suite" finished-at="2024-10-27T01:18:54 IST" duration-ms="23275">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T01:18:31 IST" name="Default test" finished-at="2024-10-27T01:18:54 IST" duration-ms="23275">
+      <class name="com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest">
+        <test-method is-config="true" signature="configbs()[pri:0, instance:com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest@62379589]" started-at="2024-10-27T01:18:31 IST" name="configbs" finished-at="2024-10-27T01:18:31 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbs -->
+        <test-method is-config="true" signature="configbc()[pri:0, instance:com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest@62379589]" started-at="2024-10-27T01:18:31 IST" name="configbc" finished-at="2024-10-27T01:18:33 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbc -->
+        <test-method signature="tc04_ST_VerifyBookedApptByUserAdminDoctorTest()[pri:0, instance:com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest@62379589]" started-at="2024-10-27T01:18:33 IST" name="tc04_ST_VerifyBookedApptByUserAdminDoctorTest" finished-at="2024-10-27T01:18:54 IST" duration-ms="20647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_ST_VerifyBookedApptByUserAdminDoctorTest -->
+        <test-method is-config="true" signature="configac()[pri:0, instance:com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest@62379589]" started-at="2024-10-27T01:18:54 IST" name="configac" finished-at="2024-10-27T01:18:54 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configac -->
+        <test-method is-config="true" signature="configas()[pri:0, instance:com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest@62379589]" started-at="2024-10-27T01:18:54 IST" name="configas" finished-at="2024-10-27T01:18:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configas -->
+      </class> <!-- com.hc.rediagerplus.patientTest.VerifyBookedApptByUserAdminDoctorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
